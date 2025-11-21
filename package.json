@@ -1,7 +1,7 @@
 {
   "name": "firemail-bot",
   "version": "1.0.0",
-  "description": "Telegram FireMail bot",
+  "description": "Telegram bot for FireMail",
   "main": "index.cjs",
   "type": "commonjs",
   "scripts": {
