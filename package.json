@@ -1,13 +1,14 @@
 {
   "name": "firemail-bot",
   "version": "1.0.0",
-  "description": "FireMail Telegram bot",
+  "description": "Telegram FireMail bot",
   "main": "index.cjs",
+  "type": "commonjs",
   "scripts": {
     "start": "node index.cjs"
   },
   "dependencies": {
-    "node-fetch": "^2.6.12",
-    "cheerio": "^1.0.0-rc.12"
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.6.12"
   }
 }
