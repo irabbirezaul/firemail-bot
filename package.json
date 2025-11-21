@@ -1,16 +1,13 @@
 {
   "name": "firemail-bot",
   "version": "1.0.0",
-  "description": "Telegram bot for FireMail inbox",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "node-fetch": "^2.6.12",
+    "node-fetch": "^3.3.1",
     "cheerio": "^1.0.0-rc.12"
   },
-  "engines": {
-    "node": "18.x"
-  }
+  "type": "module"
 }
